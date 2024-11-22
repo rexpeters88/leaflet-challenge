@@ -18,3 +18,6 @@ Custom JavaScript logic for interacting with the map, processing data, and imple
 External Resources:
 
 Dependencies such as Leaflet, D3.js, and Marker Cluster libraries are loaded via external CDNs. These resources are not hosted within the repository but are critical for the application's functionality.
+
+Sources
+The implementation and styling of the legend were supported by the Xpert Learning Assistant, which was used to organize its layout, functionality, and associated CSS. This assistance ensured a professional and user-friendly presentation of map data.
